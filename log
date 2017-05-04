@@ -1,0 +1,191 @@
+Log: Log file open, 05/04/17 14:33:51
+Log: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+Log: Version: 8635
+Log: Compiled (32-bit): Jun  9 2014 12:37:41
+Log: Changelist: 827556
+Log: Command line: 
+Log: Base directory: E:\Programme\Steam\steamapps\common\Borderlands 2\Binaries\Win32\
+[0000.18] Log: CPU Page size=4096, Processors=4
+[0000.18] Log: High frequency timer resolution =3.117188 MHz
+[0000.18] Log: Memory total: Physical=8.0GB Pagefile=16.0GB Virtual=4.0GB
+[0000.30] Log: STEAMWORKS initialized 1
+[0000.31] Log: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[0000.31] Log: Presizing GObjAvailable to 262144 slots (~1048576 bytes)
+[0000.31] Log: Object subsystem initialized
+[0000.31] Log:   Steamworks-provided language string: english
+[0000.43] Log: OS stats:
+[0000.43] Log: 	Windows 7 
+[0000.43] Log: 	RemoteDesktop=0
+[0000.43] Log: Memory stats:
+[0000.43] Log: 	Physical: 8155MB
+[0000.43] Log: 	Virtual: 4095MB
+[0000.43] Log: 	PageFile: 16347MB
+[0000.43] Log: CPU stats:
+[0000.43] Log: 	MeasuredPerformanceTime: 80.789 (stored result)
+[0000.43] Log: 	Hyperthreaded: 1
+[0000.43] Log: 	NumProcessorsPerCPU: 1
+[0000.43] Log: 	NumLogicalProcessors: 4
+[0000.43] Log: 	NumPhysicalProcessors: 8
+[0000.43] Log: 	MaxSpeed: 3192
+[0000.43] Log: 	CurrentSpeed: 3192
+[0000.43] Log: 	CoresPerProcessor: 8
+[0000.43] Log: 	IsOnBattery: 0
+[0000.43] Log: 	BatteryLevel: -1
+[0000.43] Log: 	Manufacturer: Intel
+[0000.43] Log: 	CPUName: Unknown INTEL CPU
+[0000.43] Log: 	L1CacheSize: -1
+[0000.43] Log: 	L2CacheSize: -1
+[0000.43] Log: 	Architecture: x86
+[0000.43] Log: GPU stats:
+[0000.43] Log: 	VendorID: 00001002
+[0000.43] Log: 	DeviceID: 000067DF
+[0000.43] Log: 	DriverVersion: 21.19.164.257
+[0000.43] Log: 	DeviceName: Radeon (TM) RX 480 Graphics
+[0000.43] Log: 	DriverName: aticfx32.dll
+[0000.43] Log: 	PixelShaderVersion: 3
+[0000.43] Log: 	VertexShaderVersion: 3
+[0000.43] Log: 	VRAMQuantity: 3072
+[0000.43] Log: 	DedicatedVRAM: 3072
+[0000.43] Log: 	AdapterCount: 2
+[0000.43] Log: 	SupportsHardwareTnL: 1
+[0000.43] Log: 	IsLowMemoryXPMachine: 0
+[0000.44] Log: Machine  detected compatibility level: Composite: 4. CPU: 5. GPU: 4.
+[0000.44] Log: Previous detected compatibility level: Composite: 4. CPU: 5. GPU: 4.
+[0000.49] Log: Shader platform (RHI): PC-D3D-SM3
+[0000.55] Log: PhysX GPU Support: DISABLED
+[0000.56] Log: Initializing FaceFX...
+[0000.56] Log: FaceFX 1.7.4 initialized.
+[0005.83] Log: Finished loading startup packages in 5.12 seconds
+[0005.84] Log: 154475 objects as part of root set at end of initial load.
+[0005.84] Log: Initializing Engine...
+[0005.88] Log: UEngine initialized
+[0005.93] Log: AK Audio Device initialized.
+[0006.38] Log: Client initialized
+[0006.94] Log: Initializing Steamworks
+[0007.22] Log: Primary PhysX scene will be in software.
+[0007.22] Log: Creating Primary PhysX Scene.
+[0007.24] Log: Bringing World menumap.TheWorld up for play (0) at 2017.05.04-14.33.58
+[0007.24] Log: Bringing up level for play took: 0.042124
+[0007.25] Log: Game engine initialized
+[0007.27] Log: Initializing Engine Completed
+[0009.07] Log: >>>>>>>>>>>>>> Initial startup: 9.07s <<<<<<<<<<<<<<<
+[0029.28] Log: 
+[0029.28] Log: *** Property dump for object 'ClassModDefinition GD_ClassMods.A_Item_Siren.ClassMod_Siren_Banshee' ***
+[0029.28] Log: === ClassModDefinition properties ===
+[0029.28] Log:   ManufacturerOverride=ManufacturerDefinition'GD_Manufacturers.Manufacturers.Bandit'
+[0029.28] Log:   DisplayClassModAtBeginningOfName=0
+[0029.28] Log: === EquipableItemDefinition properties ===
+[0029.28] Log:   DamageTypeIcon=DAMAGE_TYPE_Unknown
+[0029.28] Log: === ItemDefinition properties ===
+[0029.28] Log:   VfTable_IIBehaviorProvider=
+[0029.28] Log:   VfTable_IIConstructObject=
+[0029.28] Log:   DroppedImpact=None
+[0029.28] Log:   UseFailureCharacterMessage=You must be a %s to use this item.
+[0029.28] Log:   ItemName=
+[0029.28] Log:   bItemNameIsFullName=False
+[0029.28] Log:   bUseMeshCompositing=False
+[0029.28] Log:   TitleList(0)=ItemNamePartDefinition'GD_ClassMods.Title.Title_ClassMod'
+[0029.28] Log:   PrefixList(0)=ItemNamePartDefinition'GD_ClassMods.Prefix_Siren.Prefix_Banshee_00_Banshee'
+[0029.28] Log:   PrefixList(1)=ItemNamePartDefinition'GD_ClassMods.Prefix_Siren.Prefix_Banshee_01_UnyieldingBanshee'
+[0029.28] Log:   PrefixList(2)=ItemNamePartDefinition'GD_ClassMods.Prefix_Siren.Prefix_Banshee_02_BreakneckBanshee'
+[0029.28] Log:   PrefixList(3)=ItemNamePartDefinition'GD_ClassMods.Prefix_Siren.Prefix_Banshee_03_ScorchedBanshee'
+[0029.28] Log:   NonCompositeStaticMesh=None
+[0029.28] Log:   NonCompositeSkeletalMesh=SkeletalMesh'Item_ClassMods.Meshes.SirenClassmod01'
+[0029.28] Log:   OverrideMaterial=MaterialInstanceConstant'Item_ClassMods.Mat.Mati_ClassMod_Siren_Banshee'
+[0029.28] Log:   GestaltMesh=None
+[0029.28] Log:   AlphaParts=ItemPartListDefinition'GD_ClassMods.Specialization.Z_PartsList_SpecializationParts'
+[0029.28] Log:   BetaParts=ItemPartListDefinition'GD_ClassMods.StatPrimary.Z_PartsList_PrimaryStatParts'
+[0029.28] Log:   GammaParts=ItemPartListDefinition'GD_ClassMods.StatPrimary02.Z_PartsList_PrimaryStat02Parts'
+[0029.28] Log:   DeltaParts=None
+[0029.28] Log:   EpsilonParts=None
+[0029.28] Log:   ZetaParts=None
+[0029.28] Log:   EtaParts=None
+[0029.28] Log:   ThetaParts=None
+[0029.28] Log:   MaterialParts=ItemPartListDefinition'GD_ClassMods.StatPenalty.Z_PartsList_StatPenaltyParts'
+[0029.28] Log:   BehaviorProviderDefinition=None
+[0029.28] Log:   Behaviors=(OnUsed=)
+[0029.28] Log:   RequiredPlayerClass=PlayerClassIdentifierDefinition'GD_PlayerClassId.Siren'
+[0029.28] Log:   PickupIconOverride=None
+[0029.28] Log: === WillowInventoryDefinition properties ===
+[0029.28] Log:   InventoryClass=Class'WillowGame.WillowClassMod'
+[0029.28] Log:   bAutomaticallyPickup=False
+[0029.28] Log:   bPickupInBulk=False
+[0029.28] Log:   bDisallowAIFromGrabbingPickup=False
+[0029.28] Log:   bDuplicatePickupJustAddsQuantity=False
+[0029.28] Log:   bSuppressPickupCard=False
+[0029.28] Log:   bTorque=False
+[0029.28] Log:   bNeverDisplayPickupMessage=False
+[0029.28] Log:   bShopsHaveInfiniteQuantity=False
+[0029.28] Log:   bCanCompare=True
+[0029.28] Log:   bUsesPlayerLevelRequirement=True
+[0029.28] Log:   bUIMeshRotationNeedsTransformFixup=False
+[0029.28] Log:   bIsConsumable=False
+[0029.28] Log:   bAllowInventoryDefToModifyPartWeight=False
+[0029.28] Log:   PlayerDroppability=EPD_Droppable
+[0029.28] Log:   FormOfCurrency=CURRENCY_Credits
+[0029.28] Log:   OnUseConstraintsMode=EXPRMODE_And
+[0029.28] Log:   AttributeSlotEffectMode=ATTRSLOTEFFECTMODE_Default
+[0029.28] Log:   PickupLifeSpan=0.000000
+[0029.28] Log:   PickupFlagScale=1.000000
+[0029.28] Log:   PickupFlagIcon=Texture2D'fx_shared_items.Textures.CommDeck_Dif'
+[0029.28] Log:   PickupFlagOffset=(X=0.000000,Y=0.000000,Z=0.000000)
+[0029.28] Log:   Torque=(X=0.000000,Y=0.000000,Z=0.000000)
+[0029.28] Log:   ThirdPersonMeshScale=1.000000
+[0029.28] Log:   PickupSounds(0)=(Event=AkEvent'Ake_Obj_Pickup.Obj_Pickup.Ak_Play_Obj_Pickup_Class_Mod',Cue=None,Expressions=)
+[0029.28] Log:   MaterialClass=Class'Engine.MaterialInstanceConstant'
+[0029.28] Log:   PhysicsAsset=PhysicsAsset'Item_ClassMods.Meshes.SirenClassmod01_Physics'
+[0029.28] Log:   PickupMessage=You got %s
+[0029.28] Log:   UseFailureLevelMessage=You must be at least level %d to use this item.
+[0029.28] Log:   UseFailureConstraintsMessage=You cannot use this item.
+[0029.28] Log:   NoManufacturerName=Generic
+[0029.28] Log:   BaseRarity=(BaseValueConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)
+[0029.28] Log:   MonetaryValue=(BaseValueConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=AttributeInitializationDefinition'GD_Economy.PriceCalc.Init_ClassMods_Standard_PriceCalculator',BaseValueScaleConstant=1.000000)
+[0029.28] Log:   BaseMonetaryValueModifier=1.000000
+[0029.28] Log:   PlayerUseLevelBonus=(BaseValueConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=AttributeInitializationDefinition'GD_Balance_Inventory.LevelRequirement.Init_BaseGearLevelRequirementBonus',BaseValueScaleConstant=1.000000)
+[0029.28] Log:   UIStatList(0)=(bDisplayAsModifierOnly=True,AttributeStyle=ATTRSTYLE_ModifierText,SupplementalAttributeStyle=ATTRSTYLE_JustNumber,StatCombinationMethod=SCM_Multiply,Attribute=ResourcePoolAttributeDefinition'D_Attributes.ShieldResourcePool.ShieldOnIdleRegenerationRate',ConstraintAttribute=None,SupplementalAttributeExpression=(AttributeOperand1=None,ComparisonOperator=OPERATOR_EqualTo,Operand2Usage=OPERAND_PreferAttribute,AttributeOperand2=None,ConstantOperand2=0.000000),SupplementalAttributeToAppend=None)
+[0029.28] Log:   UIStatList(1)=(bDisplayAsModifierOnly=True,AttributeStyle=ATTRSTYLE_ModifierText,SupplementalAttributeStyle=ATTRSTYLE_JustNumber,StatCombinationMethod=SCM_Multiply,Attribute=ResourcePoolAttributeDefinition'D_Attributes.ShieldResourcePool.ShieldOnIdleRegenerationDelay',ConstraintAttribute=None,SupplementalAttributeExpression=(AttributeOperand1=None,ComparisonOperator=OPERATOR_EqualTo,Operand2Usage=OPERAND_PreferAttribute,AttributeOperand2=None,ConstantOperand2=0.000000),SupplementalAttributeToAppend=None)
+[0029.28] Log:   UIStatList(2)=(bDisplayAsModifierOnly=True,AttributeStyle=ATTRSTYLE_ModifierText,SupplementalAttributeStyle=ATTRSTYLE_JustNumber,StatCombinationMethod=SCM_Multiply,Attribute=ResourcePoolAttributeDefinition'D_Attributes.HealthResourcePool.HealthMaxValue_Player',ConstraintAttribute=None,SupplementalAttributeExpression=(AttributeOperand1=None,ComparisonOperator=OPERATOR_EqualTo,Operand2Usage=OPERAND_PreferAttribute,AttributeOperand2=None,ConstantOperand2=0.000000),SupplementalAttributeToAppend=None)
+[0029.28] Log:   UIMeshRotation=(Pitch=0,Yaw=20936,Roll=3644)
+[0029.28] Log:   Presentation=InventoryCardPresentationDefinition'GD_InventoryPresentations.Definitions.CommDeck'
+[0029.28] Log:   CalloutDefinition=None
+[0029.28] Log:   PickedUpStatID=None
+[0029.28] Log:   PurchasedStatID=None
+[0029.28] Log:   FocusRadius=55.000000
+[0029.28] Log:   FocusOffset=(X=-0.400000,Y=-0.075000,Z=0.000000)
+[0029.28] Log:   AttributeSlotEffectSkillDuration=(BaseValueConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)
+[0029.28] Log:   AttributeSlotBaseGrade=(BaseValueConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)
+[0029.28] Log:   AttributeSlotMaxActivated=19
+[0029.28] Log:   AttributeSlotEffects(0)=(SlotName="PrimaryStatBonus",bExternalSlot=True,bRunEffectsAsSkill=True,AttributeToModify=ResourcePoolAttributeDefinition'D_Attributes.ShieldResourcePool.ShieldOnIdleRegenerationRate',ConstraintAttribute=None,ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=0.200000,BaseValueAttribute=None,InitializationDefinition=AttributeInitializationDefinition'GD_ClassMods.Misc.Init_StatBonus_Strong',BaseValueScaleConstant=1.000000),PerGradeUpgrade=(BaseValueConstant=0.010000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000),bIncludeInFunStats=False,bIncludeAlliesAsTarget=False,bEnforceMinimumGrade=True,bEnforceMaximumGrade=False,MinimumGrade=0,MaximumGrade=0,TargetInstanceDataName=)
+[0029.28] Log:   AttributeSlotEffects(1)=(SlotName="PrimaryStatBonus02",bExternalSlot=True,bRunEffectsAsSkill=True,AttributeToModify=ResourcePoolAttributeDefinition'D_Attributes.ShieldResourcePool.ShieldOnIdleRegenerationDelay',ConstraintAttribute=None,ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=-0.200000,BaseValueAttribute=None,InitializationDefinition=AttributeInitializationDefinition'GD_ClassMods.Misc.Init_StatBonus_Strong_Negative',BaseValueScaleConstant=1.000000),PerGradeUpgrade=(BaseValueConstant=-0.010000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000),bIncludeInFunStats=False,bIncludeAlliesAsTarget=False,bEnforceMinimumGrade=True,bEnforceMaximumGrade=False,MinimumGrade=0,MaximumGrade=0,TargetInstanceDataName=)
+[0029.28] Log:   AttributeSlotEffects(2)=(SlotName="StatPenalty",bExternalSlot=True,bRunEffectsAsSkill=False,AttributeToModify=ResourcePoolAttributeDefinition'D_Attributes.HealthResourcePool.HealthMaxValue_Player',ConstraintAttribute=None,ModifierType=MT_PostAdd,BaseModifierValue=(BaseValueConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=AttributeInitializationDefinition'GD_Balance_HealthAndDamage.HealthAndDamage.Init_HealthBonusFromClassMods_Formula',BaseValueScaleConstant=-0.200000),PerGradeUpgrade=(BaseValueConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=AttributeInitializationDefinition'GD_Balance_HealthAndDamage.HealthAndDamage.Init_HealthBonusFromClassMods_Formula',BaseValueScaleConstant=-0.005000),bIncludeInFunStats=False,bIncludeAlliesAsTarget=False,bEnforceMinimumGrade=False,bEnforceMaximumGrade=False,MinimumGrade=0,MaximumGrade=0,TargetInstanceDataName=)
+[0029.28] Log:   AttributeSlotEffects(3)=(SlotName="Skill1",bExternalSlot=True,bRunEffectsAsSkill=True,AttributeToModify=InventoryAttributeDefinition'GD_Siren_Skills.SkillGradeModifiers.Immolate',ConstraintAttribute=None,ModifierType=MT_PostAdd,BaseModifierValue=(BaseValueConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=AttributeInitializationDefinition'GD_ClassMods.Misc.Init_BaseSkillPointCalculation',BaseValueScaleConstant=1.000000),PerGradeUpgrade=(BaseValueConstant=0.340000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000),bIncludeInFunStats=True,bIncludeAlliesAsTarget=False,bEnforceMinimumGrade=True,bEnforceMaximumGrade=False,MinimumGrade=0,MaximumGrade=0,TargetInstanceDataName=)
+[0029.28] Log:   AttributeSlotEffects(4)=(SlotName="Skill2",bExternalSlot=True,bRunEffectsAsSkill=True,AttributeToModify=InventoryAttributeDefinition'GD_Siren_Skills.SkillGradeModifiers.Fleet',ConstraintAttribute=None,ModifierType=MT_PostAdd,BaseModifierValue=(BaseValueConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=AttributeInitializationDefinition'GD_ClassMods.Misc.Init_BaseSkillPointCalculation',BaseValueScaleConstant=1.000000),PerGradeUpgrade=(BaseValueConstant=0.340000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000),bIncludeInFunStats=True,bIncludeAlliesAsTarget=False,bEnforceMinimumGrade=True,bEnforceMaximumGrade=False,MinimumGrade=0,MaximumGrade=0,TargetInstanceDataName=)
+[0029.28] Log:   AttributeSlotEffects(5)=(SlotName="Skill3",bExternalSlot=True,bRunEffectsAsSkill=True,AttributeToModify=InventoryAttributeDefinition'GD_Siren_Skills.SkillGradeModifiers.Backdraft',ConstraintAttribute=None,ModifierType=MT_PostAdd,BaseModifierValue=(BaseValueConstant=0.000000,BaseValueAttribute=None,InitializationDefinition=AttributeInitializationDefinition'GD_ClassMods.Misc.Init_BaseSkillPointCalculation',BaseValueScaleConstant=1.000000),PerGradeUpgrade=(BaseValueConstant=0.340000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000),bIncludeInFunStats=True,bIncludeAlliesAsTarget=False,bEnforceMinimumGrade=True,bEnforceMaximumGrade=False,MinimumGrade=0,MaximumGrade=0,TargetInstanceDataName=)
+[0029.28] Log:   AttributeSlotUpgrades(0)=(SlotName="PrimaryStatBonus",GradeIncrease=1,bActivateSlot=True)
+[0029.28] Log:   AttributeSlotUpgrades(1)=(SlotName="PrimaryStatBonus02",GradeIncrease=1,bActivateSlot=True)
+[0029.28] Log:   AttributeSlotUpgrades(2)=(SlotName="StatPenalty",GradeIncrease=0,bActivateSlot=True)
+[0029.28] Log:   LootBeamColorOverride=(B=0,G=0,R=0,A=0)
+[0029.28] Log: === Object properties ===
+[0029.28] Log:   VfTableObject=
+[0029.28] Log:   HashNext=
+[0029.28] Log:   ObjectFlags=
+[0029.28] Log:   HashOuterNext=
+[0029.28] Log:   StateFrame=
+[0029.28] Log:   Linker=None
+[0029.28] Log:   LinkerIndex=
+[0029.28] Log:   ObjectInternalInteger=122321
+[0029.28] Log:   NetIndex=352
+[0029.28] Log:   Outer=Package'GD_ClassMods.A_Item_Siren'
+[0029.28] Log:   Name=ClassMod_Siren_Banshee
+[0029.28] Log:   Class=Class'WillowGame.ClassModDefinition'
+[0029.28] Log:   ObjectArchetype=ClassModDefinition'WillowGame.Default__ClassModDefinition'
+[0034.10] Log: Closing by request
+[0034.14] Log: Preparing to exit.
+[0034.71] Log: Game engine shut down
+[0034.83] Log: Windows client shut down
+[0034.84] Log: AK Audio shut down.
+[0035.11] Log: Object subsystem successfully closed.
+[0035.11] Log: Shutting down FaceFX...
+[0035.11] Log: FaceFX shutdown.
+[0035.21] Log: Exiting.
+[0035.22] Log: Log file closed, 05/04/17 14:34:26
